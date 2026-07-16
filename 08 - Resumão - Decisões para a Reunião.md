@@ -28,6 +28,8 @@ O maior bloqueador. Define o produto inteiro.
 | **B) Portal/assinatura** (tipo ZAP) | assinatura + destaque | recorrente previsível dia 1 | exige volume de anunciantes |
 | **C) Híbrido serviços** | avulsos + destaque (comissão opcional) | margem alta, baixo esforço, **começa já** | receita fragmentada, menos lock-in |
 > **Recomendação Douglas:** **(C) + anunciar grátis** no go-live (menor esforço/risco), com (A) amadurecendo em paralelo. (A) é o maior valor no longo prazo, mas depende da esteira de fechamento redonda.
+>
+> ✅ **DECIDIDO (16/07/2026, Fernando):** híbrido **SaaS + comissão** (cadastro grátis + assinaturas de ranqueamento/IA + comissão de 5% no full-service, 4% na exclusividade). A comissão fica habilitada via **CRECI-J da Versales**. Catálogo, preços, pagamento (A2) e itens de especialista consolidados em [[06 - Planos, Serviços e Precificação]] (seção "Decisões dos Sócios").
 
 ### A2. O dinheiro passa pela plataforma? → [[06 - Planos, Serviços e Precificação]] · [[05 - Fechamento (transversal)]] §4
 Decisão que define esforço técnico enorme.

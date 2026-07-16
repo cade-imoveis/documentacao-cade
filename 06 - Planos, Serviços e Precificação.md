@@ -12,6 +12,56 @@ prioridade: P0 CRÍTICO
 > [!abstract] Base de pesquisa
 > As sugestões abaixo vêm da pesquisa de mercado BR+US 2025-2026 gravada em [[00 - Mercado Imobiliario Tech BR-US - Overview]]. Números e fontes estão lá. Aqui vai a leitura aplicada ao Cadê.
 
+---
+
+## ✅ DECISÕES DOS SÓCIOS — Modelo e Precificação (16/07/2026)
+
+> Decididas por Fernando (CEO). Substituem as "sugestões a validar" das seções abaixo no que toca a modelo de receita, precificação e pagamento. Itens que ainda dependem de especialista contratado estão marcados 🔴. Percentuais e valores calibrados como decisão de sócio.
+
+### Modelo de receita (A1)
+Híbrido **SaaS + comissão**: cadastro grátis para captar estoque, assinaturas mensais para exposição e IA, e comissão no sucesso para o full-service. O estoque de imóveis é o fator limitante do negócio, então captação sem custo para o proprietário é a estratégia central (listar é sempre grátis).
+
+### Catálogo e preços (P1)
+
+**Camada 1 · Assinaturas** (dinheiro, no ato, mensais, independem de vender, pagas por cartão/PIX/boleto recorrente):
+
+| Serviço | Preço | Observação |
+|---|---|---|
+| Cadastro + divulgação básica | Grátis | Isca de estoque; listar é sempre grátis |
+| Ranqueamento (destaque) | R$ 159,90/mês por imóvel | Upgrade pago de posição e visibilidade |
+| Atendimento por IA | R$ 59,90/mês | Custo operacional baixo, alta margem |
+| Combo (ranqueamento + IA) | R$ 199,90/mês | Compromisso mínimo de 3 meses |
+
+**Camada 2 · Comissão no sucesso** (percentual sobre o valor da venda, paga no fechamento, off-app, devida à corretora Versales):
+
+| Modelo | Comissão | Composição interna | Regras e inclusos |
+|---|---|---|---|
+| Padrão (não-exclusivo) | 5% | corretor/visitas 2% + fechamento 3% | IA de atendimento inclusa sem custo; ranqueamento opcional; despachante bônus |
+| Exclusividade | 4% | mesma jornada | Contrato mínimo de 3 meses; IA e ranqueamento inclusos; despachante bônus. Após 3 meses volta a 5% automático ou renova a exclusividade |
+
+Notas importantes:
+- A fatia de **2%** do módulo "corretor + visitas" é **alocação interna de receita, NÃO é o pagamento do corretor**. O que o corretor parceiro recebe é definido no contrato de parceria (linha de custo separada que impacta a margem).
+- O módulo **"Fechamento"** unifica proposta/negociação + contrato de compra e venda + termo de posse.
+- **Bônus despachante:** o serviço do despachante entra incluído no full-service, custeado por **parceria por volume** (custo zero para o Cadê). As **custas obrigatórias** (ITBI, emolumentos, registro) são sempre do **comprador**; o bônus é apenas o trabalho do despachante, não as taxas.
+
+### Pagamento e custódia (A2)
+No MVP o dinheiro passa pela plataforma **apenas nos serviços/assinaturas** (Nível 1, PSP simples). A **comissão é paga no fechamento, fora do app**. O **sinal/arras fica off-app** com contrato de arras e aceite reforçado (hash + carimbo de tempo). A **conta notarial escrow** (Provimento CNJ 197/2025) fica como opção premium de Fase 2. Não reter sinal em nome próprio, para evitar autorização prévia do Banco Central (Res. BCB 80).
+
+### Estrutura de corretagem (A1-b) 🔴
+A camada de corretagem do MVP usa o **CRECI-J e o responsável técnico da Versales** (já ativos). **Marca Cadê no front**, Versales como corretora responsável no back-office (número do CRECI no anúncio + parte no contrato de corretagem). Tratar como **ponte**: avaliar CRECI-J próprio do Cadê quando houver escala ou captação de investimento. Mitigar o ruído de marca com disclosure claro nos Termos e contrato co-branded.
+
+### Itens que exigem especialista contratado 🔴
+1. Enquadramento do serviço "jurídico/documental" (tecnologia + documental + marketplace de advogado parceiro, sem ferir a OAB / Lei 8.906/94).
+2. Uso do CRECI-J da Versales pelo Cadê (contrato interco / white-label de corretagem, conformidade COFECI).
+3. Contrato de parceria por volume com despachante.
+4. Contrato de parceria com corretor (o repasse que define a margem real).
+5. Contrato de arras + fluxo de taxa de reserva no cartão (conformidade CDC) e, na Fase 2, integração com escrow notarial.
+6. Parceria com corretora de seguros habilitada na SUSEP para seguro-fiança (Fase 2).
+
+> **Base jurídica das decisões:** Lei 8.906/94 (OAB), Lei 6.530/78 (CRECI), Lei 10.169/2000 (cartório), normas SUSEP, Res. BCB 80, Provimento CNJ 197/2025, Código Civil (arras arts. 417 a 420; corretagem e exclusividade arts. 722 a 729). Lembrete: o Luiz é o **responsável** jurídico, não o especialista técnico; o mérito fino cabe a especialista contratado.
+
+---
+
 ## Perguntas a decidir
 
 ### O que a Cadê vende

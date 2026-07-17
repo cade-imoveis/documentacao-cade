@@ -44,6 +44,39 @@ Notas importantes:
 - O módulo **"Fechamento"** unifica proposta/negociação + contrato de compra e venda + termo de posse.
 - **Bônus despachante:** o serviço do despachante entra incluído no full-service, custeado por **parceria por volume** (custo zero para o Cadê). As **custas obrigatórias** (ITBI, emolumentos, registro) são sempre do **comprador**; o bônus é apenas o trabalho do despachante, não as taxas.
 
+### Escopo do MVP (A3)
+Decidido por Fernando (17/07/2026). O MVP entrega **captação + vitrine + primeira monetização + modelo de transação completo e pronto**, mantendo a data-meta de **01/08**. A Versales executa a operação no interim: isso é **economia de recurso** (usar o CRECI-J já existente), NÃO simplificação do sistema. A migração da operação para o Cadê fica condicionada à formalização do CRECI-J próprio + alteração do CNPJ (separação de operações).
+
+**Entra no MVP (01/08):**
+
+| Serviço / recurso | Observação |
+|---|---|
+| Cadastro grátis + divulgação | Somar campo de descrição + legenda por IA + realce de foto |
+| Ranqueamento (R$ 159,90) | Posição paga na busca |
+| IA de atendimento (R$ 59,90) | Resultado-IA: qualifica e responde o lead |
+| Vitrine / busca do comprador | Fecha o ciclo do marketplace |
+| Chat anonimizado + captação de lead | Já existe no código |
+| Selo de identidade (KYC) | Opcional, com boost de ranking |
+| Modelo de transação completo | Proposta + contrato (PDF) + assinatura eletrônica + fechamento; operado pela Versales no interim |
+| Comissão 5% / 4% | Registrada |
+
+**Fica para a Fase 2:**
+
+| Item | Motivo |
+|---|---|
+| IA avançada (chat conversacional, OCR de docs, mapa interativo) | Maior esforço de UX |
+| Verificação de propriedade (matrícula) | OCR + revisão humana |
+| Jurídico/documental vendido como serviço ao cliente | Enquadramento OAB |
+| Seguro-fiança, laudo | Parcerias reguladas (SUSEP/CNAI) |
+
+**Distinção que evita confusão:** gerar **contrato em PDF + assinatura eletrônica** são recursos da plataforma e entram no MVP. Vender **assessoria jurídica** ao cliente é serviço regulado e fica na Fase 2 (enquadramento OAB).
+
+**Dependência imediata:** entregar o modelo de transação pronto torna a **A4** (como o corretor entra num negócio) e a **P4** (mapa serviço→jornada) bloqueadores a resolver agora, pois fazem parte do fluxo de transação.
+
+🔴 **Item societário/especialista:** formalizar o CRECI-J próprio do Cadê + alterar o CNPJ (separação de operações), com contador e advogado societário.
+
+⚠️ **Risco de prazo sinalizado:** a camada de transação hoje é fictícia no código (contrato sem PDF, assinatura sem valor legal, corretor sem jornada). Construí-la completa até 01/08 é agressivo. Definir a versão funcional enxuta de cada etapa e validar a capacidade com o João (dev).
+
 ### Pagamento e custódia (A2)
 No MVP o dinheiro passa pela plataforma **apenas nos serviços/assinaturas** (Nível 1, PSP simples). A **comissão é paga no fechamento, fora do app**. O **sinal/arras fica off-app** com contrato de arras e aceite reforçado (hash + carimbo de tempo). A **conta notarial escrow** (Provimento CNJ 197/2025) fica como opção premium de Fase 2. Não reter sinal em nome próprio, para evitar autorização prévia do Banco Central (Res. BCB 80).
 

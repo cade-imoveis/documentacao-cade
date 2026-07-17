@@ -12,6 +12,12 @@ status: em construção
 
 ---
 
+> [!success] ✅ DECISÃO A3 — Escopo do MVP (17/07/2026, Fernando)
+> Detalhe completo em [[06 - Planos, Serviços e Precificação]] (seção Decisões dos Sócios). Meta mantida: **01/08**.
+> **No MVP:** cadastro grátis (+ descrição, legenda por IA, realce de foto) · ranqueamento (R$ 159,90) · IA de atendimento básica (R$ 59,90) · vitrine/busca · chat anonimizado · **selo de identidade KYC** (opcional, com boost de ranking) · **modelo de transação completo e pronto** (contrato PDF + assinatura eletrônica + fechamento), operado pela Versales no interim por economia de recurso.
+> **Fase 2:** IA avançada (chat/OCR/mapa) · verificação de propriedade por matrícula · jurídico vendido como serviço · seguro-fiança/laudo.
+> A **A4** (jornada do corretor) e a **P4** (serviço→jornada) viram bloqueadores por fazerem parte do fluxo de transação.
+
 ## 1. Cadastro ✅
 
 **1ª Tela:** o proprietário se identifica com e-mail/telefone e dá o aceite no termo LGPD. Após os aceites, acessa uma tela que tem o **chat como ferramenta principal**, onde ele arrasta/carrega imagens e documentos do imóvel. Um **agente de IA** analisa os documentos e extrai dados para o cadastro do imóvel e do cliente, trata as imagens para postagem (formato, definição e uma foto com ícones que definem quartos, banheiros, garagem, metragem) e carrega vídeos. O agente é interativo: ao receber cada documento, sinaliza o "ok" com um check e evolui uma barra de conclusão. Se faltar algum arquivo, um campo/botão de fácil visualização (pop-up) pergunta o que está faltando e traz soluções para obter. Nesta tela há um ícone que direciona para o site de emissão de matrícula atualizada e outro para ajudar o proprietário a tirar as próprias fotos ou contratar serviço profissional.

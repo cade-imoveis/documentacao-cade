@@ -40,6 +40,8 @@ Decisão que define esforço técnico enorme.
 ### A3. Catálogo do MVP — o que entra até 01/08? → [[06 - Planos, Serviços e Precificação]] · [[01 - Proprietário]] §5
 Os "6 serviços" da 3ª tela do proprietário reorganizados em 3 famílias (Exposição · Atendimento & venda · Avulsos).
 > **Recomendação Douglas:** MVP mínimo vendável = **postar (grátis) + jurídico (pacote) + destaque (avulso)**. Corretor/visita/IA-avançada = Fase 2. Evita o João codar os 6 genéricos agora.
+>
+> ✅ **DECIDIDO (17/07/2026, Fernando):** MVP entrega captação grátis + vitrine + ranqueamento + IA de atendimento (resultado-IA) + selo KYC + **modelo de transação completo e pronto** (Versales opera no interim por economia de recurso; migração ao Cadê condicionada a CRECI-J + alteração de CNPJ). Meta 01/08 mantida. Detalhe em [[06 - Planos, Serviços e Precificação]] (seção Decisões dos Sócios).
 
 ### A4. Como um corretor entra num negócio? → [[04 - Corretor (Parceiro)]] §2
 O "buraco central" — hoje nenhuma tela coloca corretor num negócio.

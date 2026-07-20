@@ -55,6 +55,8 @@ Decisão de escopo mais pesada da locação.
 - **Sem administração:** fecha o contrato e sai. Zero módulo de cobrança recorrente.
 - **Administrado:** cobra, repassa líquido, e no premium **garante o aluguel** (paga o proprietário mesmo com inadimplência) → risco de crédito no balanço, quase virar financeira.
 > **Recomendação Douglas:** **"sem administração" no go-live**; administração como aposta de Fase 2 quando houver volume e caixa.
+>
+> ✅ **DECIDIDO (17/07/2026, Fernando):** locação **no MVP sem administração** (corretagem = 1 aluguel; garantias = análise de crédito + seguro-fiança). **Administração na Fase 1.5** (necessária, não bloqueia o 01/08): taxa **8,5%**/mês + **seguro locatício obrigatório** (garantidora = seguradora, sem risco de crédito ao Cadê) + corretagem no fechamento; via PSP + parceria SUSEP. Detalhe em [[03 - Locatário (Aluguel)]].
 
 ### A6. O que o MVP entrega de cada jornada — experiência-IA ou resultado-IA? → [[01 - Proprietário]] §1 · [[02 - Comprador]] §1/§3
 O UX CADE.txt sonha com chat-IA, mapa interativo, ranqueamento comportamental — tudo caro.

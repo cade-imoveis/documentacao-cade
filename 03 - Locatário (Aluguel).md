@@ -11,6 +11,22 @@ status: em construção
 > [!abstract] Base de pesquisa
 > Sugestões abaixo vêm da pesquisa BR+US 2025-2026 em [[01 - Locacao e Corretor BR-US]] (números e fontes lá). **A Lei do Inquilinato 8.245/91 não mudou** em 2024-26 — "Nova Lei do Aluguel 2025" é clickbait.
 
+> [!success] ✅ DECISÃO A5 — Locação (17/07/2026, Fernando)
+> Locação **entra no MVP**, com **esteira própria** (sem cartório): proposta → análise de crédito → contrato → vistoria → chaves. Base: Lei do Inquilinato 8.245/91.
+>
+> **No MVP, sem administração:** o Cadê intermedia a locação e entrega as chaves; o proprietário administra o recorrente.
+> - **Corretagem de locação:** 1 aluguel (uma vez, no fechamento).
+> - **Garantias aceitas:** análise de crédito + seguro-fiança (padrão proptech; uma garantia por contrato, art. 37).
+> - Reajuste anual por lista controlada (default IPCA); prazo default 30 meses; vistoria registrada.
+> - O modelo de **corretor e assinatura** se aplica igual à locação.
+>
+> **Fase 1.5 — Administração (necessária, não bloqueia o 01/08):**
+> - Taxa de administração **8,5%** ao mês.
+> - **Seguro locatício obrigatório** em toda locação administrada: a **seguradora é a garantidora** (paga o proprietário no calote), então o Cadê oferece "aluguel garantido" **sem risco de crédito no balanço**.
+> - Receita da locação administrada: corretagem no fechamento (1 aluguel) + administração 8,5%/mês + comissão do seguro.
+> - Implementação via **PSP regulado** (cobrança recorrente + split, sem licença própria do BACEN) + **parceria com seguradora SUSEP** (garantidora).
+> - 🔴 Especialista/parceria: contrato com o PSP e com a seguradora habilitada (a garantidora é ela, o Cadê é canal comissionado).
+
 ## 1. Busca e qualificação (locação) 🆕
 > [!todo] ✍️ PRECISA ESCREVER
 > A busca/qualificação de quem quer alugar é diferente da de quem quer comprar? (renda, garantia disponível, prazo, pets, mobiliado, etc.) Definir as perguntas que segmentam.

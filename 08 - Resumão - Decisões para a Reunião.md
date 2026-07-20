@@ -47,6 +47,8 @@ Os "6 serviços" da 3ª tela do proprietário reorganizados em 3 famílias (Expo
 O "buraco central" — hoje nenhuma tela coloca corretor num negócio.
 - Opções: **atribuição** (admin/plataforma vincula) · **pool/rodízio** · **convite do proprietário** · candidatura (rara no BR).
 > **Recomendação Douglas:** **atribuição + convite do proprietário** no MVP (mais simples e alinhado ao BR). Modelar o dado para aceitar **imóvel com dono direto + vários corretores** (não-exclusivo é o default legal, art. 726 CC).
+>
+> ✅ **DECIDIDO (17/07/2026, Fernando):** corretor parceiro PJ com **score gamificado** que define o volume de leads; **distribuição automática** (weighted-random por score, com piso), **SLA 5min/5h** e reciclagem de lead; entrada exige **CRECI ativo** (validação manual sem custo no MVP); **assinatura** R$ 49,90 anual / R$ 99,90 livre com abatimento por fechamento; captar imóvel gera comissão de captador, captar corretor gera **só score** (anti-pirâmide). Exclusividade = imóvel exclusivo do Cadê, trabalhado por toda a base. Detalhe em [[04 - Corretor (Parceiro)]].
 
 ### A5. A Cadê administra o aluguel ou entrega o contrato e sai? → [[03 - Locatário (Aluguel)]] §4
 Decisão de escopo mais pesada da locação.

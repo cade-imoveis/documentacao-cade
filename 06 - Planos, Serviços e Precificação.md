@@ -80,6 +80,20 @@ Decidido por Fernando (17/07/2026). O MVP entrega **captação + vitrine + prime
 ### Pagamento e custódia (A2)
 No MVP o dinheiro passa pela plataforma **apenas nos serviços/assinaturas** (Nível 1, PSP simples). A **comissão é paga no fechamento, fora do app**. O **sinal/arras fica off-app** com contrato de arras e aceite reforçado (hash + carimbo de tempo). A **conta notarial escrow** (Provimento CNJ 197/2025) fica como opção premium de Fase 2. Não reter sinal em nome próprio, para evitar autorização prévia do Banco Central (Res. BCB 80).
 
+### Corretor: acesso e receita (A4)
+O corretor é **parceiro PJ** (sem vínculo). O acesso à plataforma é por **assinatura**, a 4ª linha de receita do Cadê:
+
+| Plano | Preço | Compromisso |
+|---|---|---|
+| Anual | R$ 49,90/mês | 12 meses |
+| Livre (mensal) | R$ 99,90/mês | Cancela quando quiser |
+
+**Abatimento (Opção A):** cada negócio fechado pelo corretor gera crédito que abate a próxima mensalidade, podendo zerá-la ("fechou, a assinatura volta"). Ganhos do corretor: comissão de vendedor (fechamento) + comissão de captador (imóveis que ele captou). Split captador × vendedor a definir no contrato de parceria PJ.
+
+**Requisito:** CRECI ativo (validação manual sem custo no MVP via consulta pública do CRECI-UF). Jornada completa (score, distribuição, SLA) em [[04 - Corretor (Parceiro)]].
+
+**Exclusividade (esclarecimento):** o imóvel exclusivo (4%) é exclusivo **do Cadê perante o mercado**, e internamente é trabalhado por **todos** os corretores da base. Não-exclusivo = 5%.
+
 ### Estrutura de corretagem (A1-b) 🔴
 A camada de corretagem do MVP usa o **CRECI-J e o responsável técnico da Versales** (já ativos). **Marca Cadê no front**, Versales como corretora responsável no back-office (número do CRECI no anúncio + parte no contrato de corretagem). Tratar como **ponte**: avaliar CRECI-J próprio do Cadê quando houver escala ou captação de investimento. Mitigar o ruído de marca com disclosure claro nos Termos e contrato co-branded.
 

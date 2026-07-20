@@ -8,6 +8,35 @@ status: em construção
 
 > 🆕 O papel `corretor` existe no código e é **lido em todo lugar** (documentos, comissão, follow-ups), mas **não há nenhuma tela/ação que coloque um corretor num negócio** — só insert manual de admin. Jornada a definir do zero.
 
+> [!success] ✅ DECISÃO A4 + P4 — Jornada do Corretor (17/07/2026, Fernando)
+> Modelo: **corretor parceiro PJ**, sem vínculo empregatício. Um marketplace de corretores com **reputação gamificada**, orquestrado pela IA **Amanda**. Preço em [[06 - Planos, Serviços e Precificação]].
+>
+> **Requisito de entrada:** CRECI **ativo** obrigatório (Lei 6.530/78). Validação **sem custo**: no MVP, checagem **manual** pela **consulta pública do CRECI-UF** no passo de validação do jurídico. API automatizada paga (ex.: IMOBISEC) só na Fase 2, quando o volume justificar.
+>
+> **Onboarding:** cadastro com a mesma experiência da captação de imóvel, preenche dados, validação (jurídico + CRECI), fica ativo.
+>
+> **Score adaptativo (define o volume de leads):** corretor novo pesa mais em **contribuição** (captação de imóveis, trilha) + piso de justiça; com histórico, o peso migra para **desempenho** (fechamentos, nota do cliente, velocidade). Pilares: captação de imóveis, captação de corretores, trilha + provas, avaliação do cliente, nº de atendimentos/agendamentos/fechamentos.
+>
+> **Distribuição de leads:** automática, **weighted-random** (sorteio ponderado pelo score) com **piso para novatos**; filtros duros por cidade/região + disponibilidade. O comprador pode **escolher o corretor pelo nome** ou **pedir atendimento** (aí entra o sorteio ponderado). A Amanda roteia.
+>
+> **SLA (o lead já vem atendido pela Amanda):** 1º contato do corretor em **até 5 min**; evolução na esteira em **até 5h** por etapa; sem evoluir, o lead **volta à base e re-atribui**. Estados: Novo → Contato → Agendado → Proposta → Fechado/Perdido.
+>
+> **Segmentação:** por cidade e região/bairro (especialista) ou generalista.
+>
+> **Captação e ganhos (regra anti-pirâmide):**
+> - Captação de **IMÓVEL**: score (mais leads) + **comissão de captador** quando o imóvel vende.
+> - Captação de **CORRETOR**: **só score** (mais leads), nunca dinheiro sobre a produção do indicado. Sem níveis, sem renda recorrente.
+>
+> **Vendas em parceria** (captador × vendedor): podem ocorrer, com percentuais **a definir** no contrato de parceria PJ.
+>
+> **Exclusividade (correção):** é do **imóvel com o Cadê** (comercializado só pelo Cadê, 4%); internamente é trabalhado por **qualquer/todos** os corretores da base. Não-exclusivo = 5%.
+>
+> **Assinatura do corretor (4ª receita):** Anual **R$ 49,90/mês** (12 meses) · Livre **R$ 99,90/mês**. Abatimento (Opção A): cada negócio fechado gera crédito que abate a próxima mensalidade, podendo zerar.
+>
+> **Corte MVP:** cadastro + validação CRECI manual + atribuição por cidade/região + SLA + score básico (atendimentos/agendamentos/fechamentos) + escolha pelo nome ou pedir atendimento + assinatura. **Fase 1.5/2:** trilha + provas, captação de corretores no score, weighted-random sofisticado, especialista por bairro, API de CRECI.
+>
+> 🔴 **Especialista:** contrato de parceria PJ (incl. split captador×vendedor), regras COFECI de vitrine/publicidade do corretor, e desenho do bônus de indicação caso vire cash (manter pontual, capado, nível único).
+
 ## 1. Cadastro / onboarding do corretor 🆕
 > [!todo] ✍️ PRECISA ESCREVER
 > - Corretor se cadastra sozinho (com verificação de **CRECI**) ou é aprovado por admin?

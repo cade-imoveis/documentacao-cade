@@ -51,6 +51,8 @@ A escolha dos serviços gera um contrato para assinar (no e-mail ou de forma mai
 
 ---
 
+> [!success] ✅ A6 no cadastro (17/07/2026): o cadastro é a **ferramenta nº 1 de captação**, então tem prioridade no escopo de IA. MVP garante **formulário + legenda por IA + realce de foto** (resultado-IA). 🔴 Validar com João/Halan o quanto do cadastro assistido dá para levar no MVP (formulário → **wizard guiado com IA** → chat completo). Chat conversacional completo e OCR de documentos = Fase 2.
+
 ## 2. Gestão dos ativos ✅
 
 Já cadastrados cliente e imóvel, o proprietário gerencia seus imóveis numa tela (definir nome) que mostra cada imóvel como **Card** contendo: identificação com código, imagem principal, tempo do anúncio, quantidade de views, curtidas/salvos e tempo médio de tela. Ao clicar, ele acessa:

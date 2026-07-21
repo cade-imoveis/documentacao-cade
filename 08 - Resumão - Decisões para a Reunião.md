@@ -61,6 +61,8 @@ Decisão de escopo mais pesada da locação.
 ### A6. O que o MVP entrega de cada jornada — experiência-IA ou resultado-IA? → [[01 - Proprietário]] §1 · [[02 - Comprador]] §1/§3
 O UX CADE.txt sonha com chat-IA, mapa interativo, ranqueamento comportamental — tudo caro.
 > **Recomendação Douglas:** entregar o **valor** sem a **interface** cara no MVP: descrição+foto por IA e ranking semântico (pgvector) **sim**; chat conversacional, mapa interativo e reranking comportamental **na Fase 2**. O resultado relevante vem antes da interface.
+>
+> ✅ **DECIDIDO (17/07/2026, Fernando):** MVP = **resultado-IA** (a Amanda **faz**, não **conversa**): legenda/descrição + realce de foto no cadastro, ranking semântico (pgvector) na busca, e a **Amanda como SDR** (qualifica, agenda, nutre, roteia ao corretor, cobra o SLA). **Experiência-IA** (chat como interface, OCR de documentos, mapa interativo, reranking comportamental) = Fase 2. Isso **antecipa a Amanda** (era Fase 2 no plano fundador) para o MVP. Cadastro por chat = Fase 2, MAS o cadastro é a **ferramenta nº 1 de captação**, então 🔴 validar com o dev quanto do cadastro assistido cabe no MVP (formulário + IA → wizard guiado → chat), priorizando por ser captação.
 
 ---
 

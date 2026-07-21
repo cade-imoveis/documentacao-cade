@@ -101,6 +101,20 @@ O proprietário só se comunica com possíveis compradores e corretores por uma 
 
 ## 6. Verificação / selo do proprietário 🆕
 
+> [!question] 🕒 EM DISCUSSÃO — parqueado por Fernando (17/07/2026) para decidir com **Halan** (técnico) e **Luiz** (compliance). Encaminhamentos abaixo, ainda não são decisão fechada.
+>
+> **PR1 (obrigatório vs opcional):** opcional, incentivado com **ranking** + a **Amanda faz follow-up** ativo ("verifique e ganhe mais visibilidade").
+>
+> **PR2 (o nó é o custo do KYC em escala):** identidade base de **custo ~zero** via **login gov.br** (nível prata/ouro) + validação de CPF via **Serpro Datavalid**; **KYC completo (liveness) só just-in-time** no momento da transação (pago pelo usuário ou embutido na taxa), para o custo escalar com transações e não com cadastros. Verificação de **propriedade via link de matrícula**, paga pelo proprietário (dentro do ranqueamento).
+>
+> **PR3 (fase):** identidade (gov.br) e matrícula-link no MVP; KYC full liveness = just-in-time.
+>
+> **Para o Halan (técnico):** credenciamento do Login gov.br para entidade privada; contrato Datavalid; arquitetura just-in-time KYC; plano B com Didit (plano grátis) na base.
+>
+> **Para o Luiz (compliance):** o que a lei obriga de KYC (o Cadê não é fintech licenciada, mas há LGPD + a administração recorrente da Fase 1.5 pode puxar exigências); limites do que o selo de propriedade pode afirmar sem gerar responsabilidade.
+>
+> **Custo de referência (pesquisa 17/07):** KYC completo ~R$ 1-5/verificação em escala; gov.br grátis; Datavalid centavos. Fontes: Checkfile, Quadcode 2026, Didit.
+
 > [!todo] 🆕 PRECISA ESCREVER
 > O João citou: "se o proprietário passou no Serasa e está tudo certo, ganha um selo de verificação, e o comprador tem experiência diferente." Definir:
 > - O que é verificado (identidade, Serasa, quantidade de imóveis, histórico) e como.

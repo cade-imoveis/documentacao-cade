@@ -10,6 +10,14 @@ status: em construção
 
 ---
 
+> [!success] ✅ DECISÃO C1-C6 — Jornada do Comprador (17/07/2026, Fernando)
+> - **C1 Busca:** filtro + **ranking semântico (pgvector)** no MVP; chat conversacional na Fase 2.
+> - **C2 Cards/mapa:** **amei/salvar** + lista de seleção + destaque pago no MVP; **mapa interativo** e reranking comportamental na Fase 2.
+> - **C3 Qualificação:** leve no "tenho interesse"; **validação de documento exigida para a visita** (não trava o topo do funil).
+> - **C4 Endereço:** a vitrine mostra **localização aproximada** (bairro + ponto de referência, ex.: "perto do Praia Clube, Bairro Tubalina"); o **endereço exato e mais informações** são liberados quando o cliente entra no **fluxo de cadastro + validação**. Transparência da região + captura do lead qualificado.
+> - **C5 Propostas:** a proposta **não trava** o imóvel (proposta ≠ contrato de compra e venda). O sistema só **bloqueia com contrato assinado**; o proprietário pode, por conta própria, parar de considerar outras propostas.
+> - **C6 Anti-desintermediação:** manter o bloqueio de contato (higiene), **sem investir em máscara perfeita**; a retenção real vem do valor on-platform (contrato, selo, garantia) e do roteamento pelo Cadê.
+
 ## 1. Segmentação e leitura ✅
 
 **1ª Tela:** após a tela inicial dos clientes, ao se identificar como comprador, começa a jornada de **qualificação da busca**. A IA interage com perguntas que direcionam a pesquisa. Ex.:

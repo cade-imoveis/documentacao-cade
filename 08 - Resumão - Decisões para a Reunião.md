@@ -84,6 +84,8 @@ O UX CADE.txt sonha com chat-IA, mapa interativo, ranqueamento comportamental �
 | PR3 | **Selo: identidade [MVP] / propriedade via matrícula [Fase 2]** | 🟢 | KYC é barato e pronto; verificação de propriedade depende de OCR de matrícula com humano no loop. |
 
 ### 🔑 Comprador → [[02 - Comprador]]
+
+> ✅ **DECIDIDO (17/07/2026, Fernando):** C1 filtro + ranking semântico (MVP), chat Fase 2 · C2 amei/salvar + lista (MVP), mapa Fase 2 · C3 leve no interesse, validação de documento na visita · C4 vitrine mostra **localização aproximada** (bairro + ponto de referência), **endereço exato só após cadastro + validação** · C5 proposta **não** trava (proposta ≠ contrato); só **contrato assinado** bloqueia (proprietário pode barrar outras por conta própria) · C6 manter bloqueio de contato, sem investir em máscara. Detalhe em [[02 - Comprador]].
 | # | Decisão | Prio | Recomendação Douglas |
 |---|---|---|---|
 | C1 | **Busca conversacional no MVP** ou filtro + ranking semântico? | 🟢 | Filtro + ranking semântico (pgvector) no MVP; chat na Fase 2. |

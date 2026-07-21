@@ -69,6 +69,8 @@ O UX CADE.txt sonha com chat-IA, mapa interativo, ranqueamento comportamental �
 ## Parte 2 — Decisões por fluxo
 
 ### 💰 Planos, Serviços e Precificação → [[06 - Planos, Serviços e Precificação]]
+
+> 💳 **Crédito via Teddy (nova linha de receita, 17/07/2026):** Cadê e Versales são parceiros da **Teddy Open Finance / The House** (marketplace multibanco). Originação dentro da jornada com **participação nas operações**, sem risco de crédito. Comprador: financiamento + consórcio; **proprietário: home equity** (owner-first). Fecha o lado do crédito da "última milha". Detalhe em [[06 - Planos, Serviços e Precificação]].
 | # | Decisão | Prio | Recomendação Douglas |
 |---|---|---|---|
 | P1 | **Preço de cada serviço** (o número) | 🟡 | Aposta de sócio. Dei faixas de mercado na tabela-catálogo do doc 06 como ponto de partida. |

@@ -120,6 +120,20 @@ O serviço que o proprietário contrata (na 3ª tela do cadastro) é um **conjun
 
 **Flags secundárias** (modificam, não ramificam): ranqueamento (posição na busca), IA de atendimento (intensifica a Amanda), exclusividade (trava comercialização + 4% + evidência).
 
+### Crédito (via Teddy / The House) — serviço e receita
+O Cadê e a Versales são **parceiros da Teddy Open Finance** (vertical imobiliária **The House**), um marketplace multibanco de crédito. O Cadê **origina crédito dentro da jornada e participa das operações** (split de comissão), **sem assumir risco de crédito e sem virar banco** (a infra de correspondente é do Teddy). Isso cobre metade da "última milha" do setor (ver análise estratégica no cofre).
+
+| Persona | Produto | Papel na jornada |
+|---|---|---|
+| Comprador | Financiamento imobiliário multibanco + consórcio | A Amanda qualifica e oferece o crédito no fluxo; quem não passa em financiamento vai para consórcio. **Fecha o vão onde o deal morre no banco** |
+| **Proprietário** ⭐ | **Home equity** | Destrava crédito com garantia do imóvel **sem vender**. Monetiza a relação owner-first e gera receita recorrente que portal nenhum tem |
+| Base geral | Veículos, consignado | Cross-sell sobre a base |
+
+- **Receita:** participação nas operações (originação), no Cadê **e** na Versales.
+- **A Amanda** atua como **concierge de crédito** (qualifica, pré-aprova, conduz).
+- **Fase:** MVP = encaminhamento/indicação qualificada ao Teddy/The House (leve, é handoff pela Amanda); **integração profunda** (API, jornada única) = Fase 2.
+- **Cuidado (backbone):** Teddy é parceiro, **não exclusivo**; a defensibilidade vem da integração + dados, não do acesso.
+
 ### Estrutura de corretagem (A1-b) 🔴
 A camada de corretagem do MVP usa o **CRECI-J e o responsável técnico da Versales** (já ativos). **Marca Cadê no front**, Versales como corretora responsável no back-office (número do CRECI no anúncio + parte no contrato de corretagem). Tratar como **ponte**: avaliar CRECI-J próprio do Cadê quando houver escala ou captação de investimento. Mitigar o ruído de marca com disclosure claro nos Termos e contrato co-branded.
 

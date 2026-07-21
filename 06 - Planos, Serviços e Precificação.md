@@ -94,6 +94,32 @@ O corretor é **parceiro PJ** (sem vínculo). O acesso à plataforma é por **as
 
 **Exclusividade (esclarecimento):** o imóvel exclusivo (4%) é exclusivo **do Cadê perante o mercado**, e internamente é trabalhado por **todos** os corretores da base. Não-exclusivo = 5%.
 
+### Mapa serviço → jornada (P4)
+O serviço que o proprietário contrata (na 3ª tela do cadastro) é um **conjunto de flags no `negócio`** (arquitetura D-01) que **liga ou desliga etapas** da jornada. É uma jornada única e condicional, não vários fluxos separados.
+
+**A espinha (2 níveis de serviço do imóvel):**
+
+| Etapa | 🆓 Divulgação | 💼 Full-service (5% / 4% exclusivo) |
+|---|---|---|
+| Vitrine + Amanda qualifica o lead | ✅ | ✅ |
+| Quem conduz o lead | Proprietário (self-service) | Corretor (weighted-random) |
+| Fechamento assistido (proposta + contrato + posse) | desligado | ✅ |
+| Despachante (bônus) | desligado | ✅ |
+| Comissão | desligada | ✅ |
+
+**Upsell da Amanda:** num imóvel "só divulgação", quando o lead esquenta, a Amanda oferece ao proprietário o upgrade para full-service (vira 5%). "Anuncie grátis" capta estoque; o upsell converte em transação (o objetivo de participar dos negócios).
+
+**Princípio de dados (Fernando):** tudo roteia pelo Cadê para gerar o **máximo de fluxo e informação qualificável no banco** (reforça D-02 observabilidade + D-05 comunicação intermediada). Placa, chat e ligações caem na Amanda e viram dado.
+
+**Serviço avulso: Placa/adesivo "Vende ou Aluga":**
+- **Full-service:** grátis (agrega valor ao 5%).
+- **Divulgação:** P R$ 29 · M R$ 39 · G R$ 49 (3 tamanhos, R$ 10 entre eles).
+- A placa leva o **contato/QR do Cadê** (nunca o do proprietário), capturando o lead na plataforma e abrindo o upsell.
+
+**Exclusividade (4%) — lógica e benefício:** o 4% é **1% de desconto** frente aos 5% convencionais, oferecido como **incentivo** para o proprietário dar exclusividade. Em troca, o Cadê ganha liberdade para focar energia em ranqueamento e divulgação. O imóvel exclusivo ganha **evidência dupla**: destaque para o comprador (vitrine) e **selo de prioridade Cadê** para o corretor no sistema (alinha o corretor a priorizá-lo, já que o esforço de venda fica todo dentro de casa).
+
+**Flags secundárias** (modificam, não ramificam): ranqueamento (posição na busca), IA de atendimento (intensifica a Amanda), exclusividade (trava comercialização + 4% + evidência).
+
 ### Estrutura de corretagem (A1-b) 🔴
 A camada de corretagem do MVP usa o **CRECI-J e o responsável técnico da Versales** (já ativos). **Marca Cadê no front**, Versales como corretora responsável no back-office (número do CRECI no anúncio + parte no contrato de corretagem). Tratar como **ponte**: avaliar CRECI-J próprio do Cadê quando houver escala ou captação de investimento. Mitigar o ruído de marca com disclosure claro nos Termos e contrato co-branded.
 

@@ -74,7 +74,7 @@ O UX CADE.txt sonha com chat-IA, mapa interativo, ranqueamento comportamental �
 | P1 | **Preço de cada serviço** (o número) | 🟡 | Aposta de sócio. Dei faixas de mercado na tabela-catálogo do doc 06 como ponto de partida. |
 | P2 | **Comissão de venda**: manter ~6% ou entrar abaixo como diferencial? | 🟡 | Ancorar em ≤6% (teto CRECI/mercado). Entrar abaixo é posicionamento (EmCasa faz, sem publicar número). |
 | P3 | **Quem paga cada coisa** | 🟡 | Proprietário/vendedor é o pagador principal. **Não** cobrar o comprador (nenhum concorrente BR cobra). Cobrar inquilino = risco jurídico (ver Parte 3). |
-| P4 | **Mapa serviço → etapas** (como o serviço muda a jornada) | 🔴 | Modelar serviço como flags no `negócio`. Definir isto destrava o João (junto com a jornada do corretor). |
+| P4 | **Mapa serviço → etapas** (como o serviço muda a jornada) | ✅ | **DECIDIDO (17/07/2026, Fernando):** flags no `negócio` (liga/desliga etapas); **Divulgação** (self-service + Amanda) vs **Full-service** (corretor + fechamento + despachante); **upsell da Amanda** de divulgação → full-service; **placa/adesivo** (grátis full-service, R$ 29/39/49 divulgação, com contato do Cadê); **exclusividade** 4% (1% de desconto + evidência dupla comprador/corretor). Ver [[06 - Planos, Serviços e Precificação]]. |
 
 ### 🏠 Proprietário → [[01 - Proprietário]]
 | # | Decisão | Prio | Recomendação Douglas |
